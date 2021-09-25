@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shapes Version="1.0">
+  <shape Type="P">
+    <anchor X="236" Y="97"/>
+    <anchor X="226" Y="98"/>
+    <anchor X="212" Y="115"/>
+    <anchor X="209" Y="107"/>
+    <anchor X="204" Y="106"/>
+    <anchor X="197" Y="113"/>
+    <anchor X="194" Y="123"/>
+    <anchor X="203" Y="132"/>
+    <anchor X="211" Y="127"/>
+    <anchor X="214" Y="128"/>
+    <anchor X="203" Y="140"/>
+    <anchor X="209" Y="147"/>
+    <anchor X="223" Y="159"/>
+    <anchor X="226" Y="169"/>
+    <anchor X="219" Y="182"/>
+    <anchor X="212" Y="200"/>
+    <anchor X="196" Y="216"/>
+    <anchor X="181" Y="221"/>
+    <anchor X="173" Y="224"/>
+    <anchor X="171" Y="229"/>
+    <anchor X="167" Y="223"/>
+    <anchor X="152" Y="223"/>
+    <anchor X="141" Y="215"/>
+    <anchor X="125" Y="216"/>
+    <anchor X="123" Y="223"/>
+    <anchor X="115" Y="221"/>
+    <anchor X="109" Y="211"/>
+    <anchor X="102" Y="209"/>
+    <anchor X="102" Y="198"/>
+    <anchor X="98" Y="187"/>
+    <anchor X="87" Y="187"/>
+    <anchor X="72" Y="191"/>
+    <anchor X="65" Y="187"/>
+    <anchor X="55" Y="187"/>
+    <anchor X="47" Y="181"/>
+    <anchor X="38" Y="175"/>
+    <anchor X="29" Y="172"/>
+    <anchor X="24" Y="164"/>
+    <anchor X="12" Y="160"/>
+    <anchor X="12" Y="149"/>
+    <anchor X="16" Y="143"/>
+    <anchor X="15" Y="137"/>
+    <anchor X="4" Y="122"/>
+    <anchor X="2" Y="109"/>
+    <anchor X="10" Y="100"/>
+    <anchor X="29" Y="98"/>
+    <anchor X="34" Y="90"/>
+    <anchor X="39" Y="81"/>
+    <anchor X="53" Y="72"/>
+    <anchor X="61" Y="71"/>
+    <anchor X="69" Y="63"/>
+    <anchor X="77" Y="72"/>
+    <anchor X="78" Y="88"/>
+    <anchor X="86" Y="88"/>
+    <anchor X="104" Y="102"/>
+    <anchor X="133" Y="109"/>
+    <anchor X="156" Y="104"/>
+    <anchor X="163" Y="89"/>
+    <anchor X="174" Y="88"/>
+    <anchor X="181" Y="80"/>
+    <anchor X="193" Y="69"/>
+    <anchor X="178" Y="73"/>
+    <anchor X="177" Y="62"/>
+    <anchor X="188" Y="58"/>
+    <anchor X="191" Y="42"/>
+    <anchor X="199" Y="38"/>
+    <anchor X="211" Y="39"/>
+    <anchor X="221" Y="54"/>
+    <anchor X="232" Y="56"/>
+    <anchor X="238" Y="61"/>
+    <anchor X="251" Y="57"/>
+    <anchor X="249" Y="83"/>
+    <anchor X="239" Y="83"/>
+  </shape>
+  <shape Type="P">
+    <anchor X="171" Y="247"/>
+    <anchor X="168" Y="244"/>
+    <anchor X="173" Y="237"/>
+    <anchor X="181" Y="238"/>
+    <anchor X="177" Y="246"/>
+  </shape>
+  <shape Type="P">
+    <anchor X="223" Y="218"/>
+    <anchor X="221" Y="208"/>
+    <anchor X="228" Y="199"/>
+    <anchor X="229" Y="202"/>
+    <anchor X="226" Y="211"/>
+  </shape>
+</shapes>

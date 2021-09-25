@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shapes Version="1.0">
+  <shape Type="B">
+    <anchor X="132" Y="22"/>
+    <anchor X="99" Y="14"/>
+    <anchor X="45" Y="90"/>
+    <anchor X="126" Y="124"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="133" Y="72"/>
+    <anchor X="136" Y="62"/>
+    <anchor X="158" Y="64"/>
+    <anchor X="155" Y="79"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="132" Y="22"/>
+    <anchor X="167" Y="20"/>
+    <anchor X="184" Y="52"/>
+    <anchor X="181" Y="76"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="181" Y="76"/>
+    <anchor X="163" Y="94"/>
+    <anchor X="255" Y="65"/>
+    <anchor X="202" Y="100"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="202" Y="100"/>
+    <anchor X="194" Y="113"/>
+    <anchor X="163" Y="88"/>
+    <anchor X="188" Y="117"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="64" Y="187"/>
+    <anchor X="94" Y="208"/>
+    <anchor X="129" Y="204"/>
+    <anchor X="122" Y="180"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="64" Y="187"/>
+    <anchor X="71" Y="163"/>
+    <anchor X="113" Y="161"/>
+    <anchor X="122" Y="180"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="49" Y="130"/>
+    <anchor X="59" Y="157"/>
+    <anchor X="127" Y="158"/>
+    <anchor X="126" Y="124"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="49" Y="130"/>
+    <anchor X="33" Y="141"/>
+    <anchor X="42" Y="138"/>
+    <anchor X="51" Y="152"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="52" Y="152"/>
+    <anchor X="0" Y="161"/>
+    <anchor X="24" Y="241"/>
+    <anchor X="143" Y="216"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="143" Y="216"/>
+    <anchor X="183" Y="188"/>
+    <anchor X="132" Y="152"/>
+    <anchor X="152" Y="122"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="188" Y="117"/>
+    <anchor X="198" Y="120"/>
+    <anchor X="169" Y="134"/>
+    <anchor X="172" Y="113"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="172" Y="113"/>
+    <anchor X="162" Y="119"/>
+    <anchor X="158" Y="121"/>
+    <anchor X="152" Y="122"/>
+  </shape>
+</shapes>

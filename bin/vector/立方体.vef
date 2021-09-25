@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shapes Version="1.0">
+  <shape Type="p">
+    <anchor X="93" Y="30"/>
+    <anchor X="253" Y="30"/>
+    <anchor X="179" Y="82"/>
+    <anchor X="0" Y="82"/>
+  </shape>
+  <shape Type="V">
+    <anchor X="0" Y="83"/>
+    <anchor X="0" Y="255"/>
+    <anchor X="179" Y="255"/>
+    <anchor X="255" Y="177"/>
+    <anchor X="255" Y="30"/>
+  </shape>
+  <shape Type="L">
+    <anchor X="179" Y="82"/>
+    <anchor X="179" Y="254"/>
+  </shape>
+</shapes>

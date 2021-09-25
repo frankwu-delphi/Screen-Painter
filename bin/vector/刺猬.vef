@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shapes Version="1.0">
+  <shape Type="V">
+    <anchor X="132" Y="26"/>
+    <anchor X="0" Y="207"/>
+    <anchor X="249" Y="207"/>
+  </shape>
+  <shape Type="E">
+    <anchor X="63" Y="170"/>
+    <anchor X="49" Y="188"/>
+  </shape>
+  <shape Type="L">
+    <anchor X="73" Y="209"/>
+    <anchor X="39" Y="249"/>
+  </shape>
+  <shape Type="L">
+    <anchor X="182" Y="209"/>
+    <anchor X="216" Y="249"/>
+  </shape>
+  <shape Type="L">
+    <anchor X="160" Y="45"/>
+    <anchor X="136" Y="67"/>
+  </shape>
+  <shape Type="L">
+    <anchor X="188" Y="66"/>
+    <anchor X="164" Y="86"/>
+  </shape>
+  <shape Type="L">
+    <anchor X="213" Y="100"/>
+    <anchor X="187" Y="115"/>
+  </shape>
+  <shape Type="L">
+    <anchor X="231" Y="130"/>
+    <anchor X="201" Y="141"/>
+  </shape>
+  <shape Type="L">
+    <anchor X="242" Y="173"/>
+    <anchor X="213" Y="176"/>
+  </shape>
+</shapes>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shapes Version="1.0">
+  <shape Type="V">
+    <anchor X="21" Y="107"/>
+    <anchor X="75" Y="147"/>
+    <anchor X="76" Y="240"/>
+    <anchor X="30" Y="208"/>
+    <anchor X="21" Y="107"/>
+    <anchor X="5" Y="24"/>
+    <anchor X="54" Y="24"/>
+    <anchor X="54" Y="49"/>
+    <anchor X="127" Y="96"/>
+    <anchor X="199" Y="48"/>
+    <anchor X="201" Y="24"/>
+    <anchor X="250" Y="24"/>
+    <anchor X="234" Y="107"/>
+    <anchor X="225" Y="208"/>
+    <anchor X="179" Y="240"/>
+    <anchor X="180" Y="146"/>
+    <anchor X="234" Y="107"/>
+  </shape>
+  <shape Type="V">
+    <anchor X="100" Y="84"/>
+    <anchor X="111" Y="134"/>
+    <anchor X="111" Y="193"/>
+    <anchor X="144" Y="193"/>
+    <anchor X="144" Y="134"/>
+    <anchor X="155" Y="84"/>
+  </shape>
+  <shape Type="V">
+    <anchor X="99" Y="251"/>
+    <anchor X="108" Y="218"/>
+    <anchor X="147" Y="218"/>
+    <anchor X="156" Y="251"/>
+  </shape>
+  <shape Type="V">
+    <anchor X="76" Y="240"/>
+    <anchor X="99" Y="251"/>
+    <anchor X="156" Y="251"/>
+    <anchor X="179" Y="240"/>
+  </shape>
+  <shape Type="A">
+    <anchor X="255" Y="5"/>
+    <anchor X="0" Y="173"/>
+    <anchor X="201" Y="24"/>
+    <anchor X="54" Y="24"/>
+  </shape>
+  <shape Type="P">
+    <anchor X="102" Y="40"/>
+    <anchor X="113" Y="34"/>
+    <anchor X="142" Y="34"/>
+    <anchor X="153" Y="40"/>
+    <anchor X="127" Y="55"/>
+  </shape>
+  <shape Type="P">
+    <anchor X="55" Y="149"/>
+    <anchor X="55" Y="132"/>
+    <anchor X="69" Y="134"/>
+    <anchor X="111" Y="134"/>
+    <anchor X="75" Y="161"/>
+  </shape>
+  <shape Type="P">
+    <anchor X="200" Y="149"/>
+    <anchor X="200" Y="132"/>
+    <anchor X="186" Y="134"/>
+    <anchor X="144" Y="134"/>
+    <anchor X="180" Y="161"/>
+  </shape>
+  <shape Type="L">
+    <anchor X="36" Y="60"/>
+    <anchor X="86" Y="92"/>
+  </shape>
+  <shape Type="L">
+    <anchor X="36" Y="82"/>
+    <anchor X="86" Y="114"/>
+  </shape>
+  <shape Type="L">
+    <anchor X="219" Y="60"/>
+    <anchor X="169" Y="92"/>
+  </shape>
+  <shape Type="L">
+    <anchor X="219" Y="82"/>
+    <anchor X="169" Y="114"/>
+  </shape>
+</shapes>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shapes Version="1.0">
+  <shape Type="e">
+    <anchor X="150" Y="214"/>
+    <anchor X="109" Y="255"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="127" Y="2"/>
+    <anchor X="195" Y="0"/>
+    <anchor X="152" Y="138"/>
+    <anchor X="127" Y="191"/>
+  </shape>
+  <shape Type="B">
+    <anchor X="128" Y="2"/>
+    <anchor X="60" Y="0"/>
+    <anchor X="103" Y="138"/>
+    <anchor X="128" Y="191"/>
+  </shape>
+</shapes>
